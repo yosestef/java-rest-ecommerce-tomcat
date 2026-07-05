@@ -1,0 +1,19 @@
+# Compilación Java
+*.class
+*.war
+*.jar
+build/
+target/
+
+# Tomcat
+catalina.out
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.iml
